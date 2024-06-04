@@ -9,6 +9,13 @@ module.exports = {
         garamond: ["Garamond"],
       },
     },
+    colors: {
+      myBlue: "#5863F8",
+      myBlack: "171D1C",
+    },
+    backgroundImage: {
+      "hero-background": "url('./src/img/image 9.png')",
+    },
   },
   plugins: [],
 };
